@@ -1,4 +1,16 @@
 #	Problem	Verdict	Language	Run Time	Submission Date
+130	Roman Roulette	Accepted	C++	0.016	2013-02-24 22:44:07
+562	Dividing coins	Accepted	C++	2.584	2013-02-24 22:14:55
+562	Dividing coins	Wrong answer	C++	2.884	2013-02-24 22:08:38
+562	Dividing coins	Runtime error	C++	0.000	2013-02-24 22:00:54
+562	Dividing coins	Wrong answer	C++	0.012	2013-02-24 21:31:07
+562	Dividing coins	Wrong answer	C++	0.016	2013-02-24 20:38:13
+130	Roman Roulette	Wrong answer	C++	0.012	2013-02-24 19:41:45
+151	Power Crisis	Accepted	C++	0.016	2013-02-24 19:38:16
+119	Greedy Gift Givers	Accepted	C++	0.008	2013-02-24 19:25:38
+119	Greedy Gift Givers	Wrong answer	C++	0.016	2013-02-24 19:19:16
+156	Ananagrams	Accepted	C++	0.016	2013-02-24 19:04:19
+11875	Brick Game	Accepted	C++	0.016	2013-02-24 18:55:52
 10035	Primary Arithmetic	Accepted	C++	0.148	2013-02-24 04:49:43
 10035	Primary Arithmetic	Wrong answer	C++	0.132	2013-02-24 04:48:14
 10035	Primary Arithmetic	Wrong answer	C++	0.116	2013-02-24 04:43:49
